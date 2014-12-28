@@ -1,0 +1,5 @@
+etc/*                  /etc
+new-iso/*              /usr/lib/antixsnapshot/new-iso
+snapshot_exclude.list  /usr/lib/antixsnapshot
+changelog.gz           /usr/share/doc/antix-snapshot-cli
+copyright              /usr/share/doc/antix-snapshot-cli
