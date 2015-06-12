@@ -1,3 +1,18 @@
+antix-snapshot-cli (0.4.0) unstable; urgency=low 
+ 
+  * Built for antiX-15 release
+
+ -- anticapitalista <antiX@operamail.com>  Mon, 04 May 2015 20:25:10 +0200
+
+
+antix-snapshot-cli (0.3.2) unstable; urgency=low 
+ 
+  * Using latest syslinux and isolinux config files.
+  * Updated memtest version.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 28 Dec 2014 17:45:10 +0200
+
+
 antix-snapshot-cli (0.3.1) unstable; urgency=low 
  
   * Updated initrd.gz to include latest live init
